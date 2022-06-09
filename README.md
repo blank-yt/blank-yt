@@ -6,5 +6,5 @@
 
 ## GitHub
 
-[![card](https://github-readme-stats.vercel.app/api?username=blank-yt&theme=default)](https://github.com/blank-yt/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=blank-yt&hide=html&layout=compact&theme=default)](https://github.com/blank-yt/)
+[![card](https://github-readme-stats.vercel.app/api?username=blank-yt&hide=prs,contribs&show_icons=true&theme=default)](https://github.com/blank-yt/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=blank-yt&hide=hack&layout=compact&theme=default)](https://github.com/blank-yt/)
