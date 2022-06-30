@@ -13,7 +13,7 @@
 
 ## Videos
 
-### Menus
+### Menus [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BU6Fi8bh3pL-xdiuzbrR65S)
 
 #### Responsive Sticky Navigation Menu With Scroll Indicator (using HTML & CSS & JavaScript) [[GitHub repository]](https://github.com/blank-yt/Responsive-Sticky-Navigation-Menu-With-Scroll-Indicator)
 [![Video](https://img.youtube.com/vi/Whcmn8Dvb90/0.jpg)](https://www.youtube.com/watch?v=Whcmn8Dvb90)
@@ -23,7 +23,7 @@
 
 ---
 
-### Checkboxes (toggle)
+### Checkboxes (toggle) [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXJnZnkhwnVif_Q3RCR6-U8)
 
 #### Dark/Light Mode Toggle (Switch) (using Cookies - remembers after closing) (HTML/PHP/CSS/JavaScript) [[GitHub repository]](https://github.com/blank-yt/Dark-Light-Mode-Switch-Using-Cookies)
 [![Video](https://img.youtube.com/vi/2OtQDoGMDsk/0.jpg)](https://www.youtube.com/watch?v=2OtQDoGMDsk)
@@ -33,7 +33,7 @@
 
 ---
 
-### Login / register forms
+### Login / register forms [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BWp4csEbiRG8lWDHfNw-ytH)
 
 #### Cool Login Form With Password Toggle Show/Hide & Floating Labels (HTML & CSS & optional jQuery) [[GitHub repository jQuery version]](https://github.com/blank-yt/Cool-Login-Form-With-Password-Toggle-Show-Hide-Floating-Labels-jQuery) [[GitHub repository no-jQuery version]](https://github.com/blank-yt/Cool-Login-Form-With-Password-Toggle-Show-Hide-Floating-Labels-no-jQuery)
 [![Video](https://img.youtube.com/vi/15-uSsU4JXs/0.jpg)](https://www.youtube.com/watch?v=15-uSsU4JXs)
@@ -55,21 +55,21 @@
 
 ---
 
-### Security
+### Security [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BW8wN8XNJ6K8uPJgYCOS4m5)
 
 #### Simple Implementation of reCAPTCHA v2 Checkbox & Invisible v3 Into Any Submit Form (HTML & PHP) [[GitHub repository v2 version]](https://github.com/blank-yt/Simple-Implementation-of-reCAPTCHA-v2-Checkbox-Into-Any-Submit-Form) [[GitHub repository v3 version]](https://github.com/blank-yt/Simple-Implementation-of-reCAPTCHA-Invisible-v3-Into-Any-Submit-Form)
 [![Video](https://img.youtube.com/vi/5W3dzlxgy3o/0.jpg)](https://www.youtube.com/watch?v=5W3dzlxgy3o)
 
 ---
 
-### Scroll to tops
+### Scroll to tops [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BWrzSqe-lfFW-OQWYKdCH_F)
 
 #### Awesome Scroll Back To Top Button With Progress Indicator (HTML & CSS & jQuery) [[GitHub repository]](https://github.com/blank-yt/Awesome-Scroll-Back-To-Top-Button-With-Progress-Indicator)
 [![Video](https://img.youtube.com/vi/NBNEgLapXu8/0.jpg)](https://www.youtube.com/watch?v=NBNEgLapXu8)
 
 ---
 
-### Buttons
+### Buttons [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXBxo287hLpQALKe9MEO308)
 
 #### Submit Button With Smooth Loading Animation (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Submit-Button-With-Smooth-Loading-Animation)
 [![Video](https://img.youtube.com/vi/GnSX9NkuXa0/0.jpg)](https://www.youtube.com/watch?v=GnSX9NkuXa0)
@@ -82,7 +82,7 @@
 
 ---
 
-### Cards
+### Cards [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BVoKxxo2mCPEMBOY9JxU33G)
 
 #### Pure CSS Card With Unfold Animation On Hover (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Pure-CSS-Card-With-Unfold-Animation-On-Hover)
 [![Video](https://img.youtube.com/vi/HTXVqZsgbJM/0.jpg)](https://www.youtube.com/watch?v=HTXVqZsgbJM)
@@ -98,7 +98,7 @@
 
 ---
 
-### Loadings
+### Loadings [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BWSwMf7MOvXWnEYHMDV00ra)
 
 #### Cool Loading Screen Animation (Preloader) (HTML & CSS & JavaScript to hide it after page is loaded) [[GitHub repository]](https://github.com/blank-yt/Cool-Loading-Screen-Animation-Preloader-)
 [![Video](https://img.youtube.com/vi/pOqNDa3x0rY/0.jpg)](https://www.youtube.com/watch?v=pOqNDa3x0rY)
@@ -111,7 +111,7 @@
 
 ---
 
-### Progress bars / range sliders
+### Progress bars / range sliders [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BVlcyEvq6x5wb_prTkJonQU)
 
 #### Colorful Animated Goal Progress Bar Indicator (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Colorful-Animated-Goal-Progress-Bar-Indicator)
 [![Video](https://img.youtube.com/vi/AWEWPNA1E64/0.jpg)](https://www.youtube.com/watch?v=AWEWPNA1E64)
@@ -121,21 +121,21 @@
 
 ---
 
-### Notifications / alert messages
+### Notifications / alert messages [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BUr7-RPa3khl9dM8KYHT4qL)
 
 #### Push Notifications With Toast Alert Message On Click (Mobile Friendly) (HTML & CSS & jQuery) [[GitHub repository]](https://github.com/blank-yt/Push-Notifications-With-Toast-Alert-Message-On-Click-Mobile-Friendly-)
 [![Video](https://img.youtube.com/vi/Y7baHL1YchA/0.jpg)](https://www.youtube.com/watch?v=Y7baHL1YchA)
 
 ---
 
-### Breadcrumbs
+### Breadcrumbs [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BUTmAjCkDd-kBqHtSQj_bkB)
 
 #### Cool Breadcrumbs Design (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Cool-Breadcrumbs-Design)
 [![Video](https://img.youtube.com/vi/1uAeIDJOSP4/0.jpg)](https://www.youtube.com/watch?v=1uAeIDJOSP4)
 
 ---
 
-### Text animations
+### Text animations [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXQsA1R2VwN9BxQXjPEyArL)
 
 #### Unusual Scramble / Code Breaker Text Animation (Cipher / Decipher Text Animation) (HTML & CSS & JS) [[GitHub repository]](https://github.com/blank-yt/Unusual-Scramble-Code-Breaker-Text-Animation-Cipher-Decipher-Text-on-Hover)
 [![Video](https://img.youtube.com/vi/dsF32DKd8C8/0.jpg)](https://www.youtube.com/watch?v=dsF32DKd8C8)
@@ -148,14 +148,14 @@
 
 ---
 
-### Pagination
+### Pagination [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXtl2XeYK5kJmpl4oFVAodk)
 
 #### Stylish Pagination Buttons (Rectangle and Circles) (HTML & CSS & jQuery) [[GitHub repository]](https://github.com/blank-yt/Stylish-Pagination-Buttons-Rectangle-and-Circles-)
 [![Video](https://img.youtube.com/vi/oN94Rj736Ug/0.jpg)](https://www.youtube.com/watch?v=oN94Rj736Ug)
 
 ---
 
-### Miscellaneous
+### Miscellaneous [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXmpnyRCcbzyJoq41dirJ-e)
 
 #### Star Rating With Colorful Light-Up Animation on Click (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Star-Rating-With-Colorful-Light-Up-Animation-on-Click)
 [![Video](https://img.youtube.com/vi/ObCXSs6taMw/0.jpg)](https://www.youtube.com/watch?v=ObCXSs6taMw)
