@@ -109,6 +109,9 @@
 #### Awesome Music Loading Animation (Loader) (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Awesome-Music-Loading-Animation)
 [![Video](https://img.youtube.com/vi/DV5QlMUGRx4/0.jpg)](https://www.youtube.com/watch?v=DV5QlMUGRx4)
 
+#### Waving Text Loading Animation (One Letter By One) (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Waving-Text-Loading-Animation-One-Letter-By-One-)
+[![Video](https://img.youtube.com/vi/oiX9K0iIpUY/0.jpg)](https://www.youtube.com/watch?v=oiX9K0iIpUY)
+
 ---
 
 ### Progress bars / range sliders [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BVlcyEvq6x5wb_prTkJonQU)
