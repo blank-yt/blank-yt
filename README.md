@@ -149,6 +149,9 @@
 #### Simple Zig Zag Text Underline Animation (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Simple-Zig-Zag-Text-Underline-Animation)
 [![Video](https://img.youtube.com/vi/EQyCgDC9KeU/0.jpg)](https://www.youtube.com/watch?v=EQyCgDC9KeU)
 
+#### Fancy Menu with Smooth Line Pulse Animation Effect on Hover (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Fancy-Menu-with-Smooth-Line-Pulse-Animation-Effect-on-Hover)
+[![Video](https://img.youtube.com/vi/Dpjc59sBP6M/0.jpg)](https://www.youtube.com/watch?v=Dpjc59sBP6M)
+
 ---
 
 ### Pagination [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXtl2XeYK5kJmpl4oFVAodk)
