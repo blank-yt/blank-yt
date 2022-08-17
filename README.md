@@ -165,3 +165,6 @@
 
 #### Star Rating With Colorful Light-Up Animation on Click (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Star-Rating-With-Colorful-Light-Up-Animation-on-Click)
 [![Video](https://img.youtube.com/vi/ObCXSs6taMw/0.jpg)](https://www.youtube.com/watch?v=ObCXSs6taMw)
+
+#### Colorful Glowing Gradient Around Div Using Tailwind CSS (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Colorful-Glowing-Gradient-Around-Div-Using-Tailwind-CSS)
+[![Video](https://img.youtube.com/vi/Roz8L9ziTW0/0.jpg)](https://www.youtube.com/watch?v=Roz8L9ziTW0)
