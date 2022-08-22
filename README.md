@@ -112,6 +112,9 @@
 #### Waving Text Loading Animation (One Letter By One) (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Waving-Text-Loading-Animation-One-Letter-By-One-)
 [![Video](https://img.youtube.com/vi/oiX9K0iIpUY/0.jpg)](https://www.youtube.com/watch?v=oiX9K0iIpUY)
 
+#### Simple Spinner Loading Animation - Multiple Circles (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Simple-Spinner-Loading-Animation---Multiple-Circles-HTML-CSS-)
+[![Video](https://img.youtube.com/vi/cynXYoPz3Ic/0.jpg)](https://www.youtube.com/watch?v=cynXYoPz3Ic)
+
 ---
 
 ### Progress bars / range sliders [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BVlcyEvq6x5wb_prTkJonQU)
