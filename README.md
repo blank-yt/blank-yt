@@ -96,6 +96,9 @@
 #### Collapsible Accordion Cards With Simple Animation (HTML & CSS & JavaScript) [[GitHub repository]](https://github.com/blank-yt/Collapsible-Accordion-Cards-With-Simple-Animation)
 [![Video](https://img.youtube.com/vi/9c7sbvb1nfI/0.jpg)](https://www.youtube.com/watch?v=9c7sbvb1nfI)
 
+#### Simple Card with 3D Flip Animation to Back Page on Hover (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Simple-Card-with-3D-Flip-Animation-to-Back-Page-on-Hover)
+[![Video](https://img.youtube.com/vi/UuQ79al6h7o/0.jpg)](https://www.youtube.com/watch?v=UuQ79al6h7o)
+
 ---
 
 ### Loadings [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BWSwMf7MOvXWnEYHMDV00ra)
