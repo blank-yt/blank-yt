@@ -162,6 +162,9 @@
 #### Stylish Pagination Buttons (Rectangle and Circles) (HTML & CSS & jQuery) [[GitHub repository]](https://github.com/blank-yt/Stylish-Pagination-Buttons-Rectangle-and-Circles-)
 [![Video](https://img.youtube.com/vi/oN94Rj736Ug/0.jpg)](https://www.youtube.com/watch?v=oN94Rj736Ug)
 
+#### Stylish Pac-Man Pagination with Eating Animation on Move to Next Page (HTML & CSS & JS) [[GitHub repository]](https://github.com/blank-yt/Stylish-Pac-Man-Pagination-with-Eating-Animation-on-Move-to-Next-Page)
+[![Video](https://img.youtube.com/vi/ACS_abz04Lg/0.jpg)](https://www.youtube.com/watch?v=ACS_abz04Lg)
+
 ---
 
 ### Miscellaneous [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXmpnyRCcbzyJoq41dirJ-e)
