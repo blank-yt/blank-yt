@@ -60,7 +60,7 @@
 #### Simple Implementation of reCAPTCHA v2 Checkbox & Invisible v3 Into Any Submit Form (HTML & PHP) [[GitHub repository v2 version]](https://github.com/blank-yt/Simple-Implementation-of-reCAPTCHA-v2-Checkbox-Into-Any-Submit-Form) [[GitHub repository v3 version]](https://github.com/blank-yt/Simple-Implementation-of-reCAPTCHA-Invisible-v3-Into-Any-Submit-Form)
 [![Video](https://img.youtube.com/vi/5W3dzlxgy3o/0.jpg)](https://www.youtube.com/watch?v=5W3dzlxgy3o)
 
-#### Simple Implementation of OAuth 2.0 (Google Sign In) Into Your Website (PHP version) [[GitHub repository]](https://github.com/blank-yt/Simple-Implementation-of-OAuth-2.0-Google-Sign-In-Into-Your-Website)
+#### Simple Implementation of OAuth 2.0 (Sign in with Google) Into Your Website (PHP version) [[GitHub repository]](https://github.com/blank-yt/Simple-Implementation-of-OAuth-2.0-Google-Sign-In-Into-Your-Website)
 [![Video](https://img.youtube.com/vi/jlqv83Qfvig/0.jpg)](https://www.youtube.com/watch?v=jlqv83Qfvig)
 
 ---
