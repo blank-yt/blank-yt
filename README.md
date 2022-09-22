@@ -83,6 +83,9 @@
 #### Stylish Purple Glowing Button (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Stylish-Purple-Glowing-Button)
 [![Video](https://img.youtube.com/vi/-XQ51W0X5y0/0.jpg)](https://www.youtube.com/watch?v=-XQ51W0X5y0)
 
+#### Stylish Sign In With Google Button (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Stylish-Sign-In-With-Google-Button)
+[![Video](https://img.youtube.com/vi/mYSeQbjWiLY/0.jpg)](https://www.youtube.com/watch?v=mYSeQbjWiLY)
+
 ---
 
 ### Cards [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BVoKxxo2mCPEMBOY9JxU33G)
