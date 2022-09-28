@@ -165,7 +165,7 @@
 [![Video](https://img.youtube.com/vi/Dpjc59sBP6M/0.jpg)](https://www.youtube.com/watch?v=Dpjc59sBP6M)
 
 #### Sliced Text Effect with Stylish Gradient on Bottom (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Sliced-Text-Effect-with-Stylish-Gradient-on-Bottom)
-[![Video](https://img.youtube.com/vi/Dpjc59sBP6M/0.jpg)](https://www.youtube.com/watch?v=ADK_LjbcMSk)
+[![Video](https://img.youtube.com/vi/ADK_LjbcMSk/0.jpg)](https://www.youtube.com/watch?v=ADK_LjbcMSk)
 
 ---
 
