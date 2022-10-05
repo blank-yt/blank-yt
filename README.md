@@ -177,6 +177,9 @@
 #### Stylish Pac-Man Pagination with Eating Animation on Move to Next Page (HTML & CSS & JS) [[GitHub repository]](https://github.com/blank-yt/Stylish-Pac-Man-Pagination-with-Eating-Animation-on-Move-to-Next-Page)
 [![Video](https://img.youtube.com/vi/ACS_abz04Lg/0.jpg)](https://www.youtube.com/watch?v=ACS_abz04Lg)
 
+#### Fancy Pagination with Tooltip on Hover (HTML & CSS & jQuery) [[GitHub repository]](https://github.com/blank-yt/Fancy-Pagination-with-Tooltip-on-Hover)
+[![Video](https://img.youtube.com/vi/iWQ2kjJGz_c/0.jpg)](https://www.youtube.com/watch?v=iWQ2kjJGz_c)
+
 ---
 
 ### Miscellaneous [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXmpnyRCcbzyJoq41dirJ-e)
