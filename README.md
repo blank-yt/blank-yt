@@ -124,6 +124,9 @@
 #### Simple Spinner Loading Animation - Multiple Circles (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Simple-Spinner-Loading-Animation---Multiple-Circles-HTML-CSS-)
 [![Video](https://img.youtube.com/vi/cynXYoPz3Ic/0.jpg)](https://www.youtube.com/watch?v=cynXYoPz3Ic)
 
+#### Simple Snowball Loading Animation with Shadow Effects (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Simple-Snowball-Loading-Animation-With-Shadow-Effects)
+[![Video](https://img.youtube.com/vi/MekumG24rQ8/0.jpg)](https://www.youtube.com/watch?v=MekumG24rQ8)
+
 ---
 
 ### Progress bars / range sliders [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BVlcyEvq6x5wb_prTkJonQU)
