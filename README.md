@@ -127,6 +127,9 @@
 #### Simple Snowball Loading Animation with Shadow Effects (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Simple-Snowball-Loading-Animation-With-Shadow-Effects)
 [![Video](https://img.youtube.com/vi/MekumG24rQ8/0.jpg)](https://www.youtube.com/watch?v=MekumG24rQ8)
 
+#### Smooth Loading Ring Animation with Glowing Effect and Shadows (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Smooth-Loading-Ring-Animation-with-Glowing-Effect-and-Shadows)
+[![Video](https://img.youtube.com/vi/VCdf5UyWnU4/0.jpg)](https://www.youtube.com/watch?v=VCdf5UyWnU4)
+
 ---
 
 ### Progress bars / range sliders [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BVlcyEvq6x5wb_prTkJonQU)
