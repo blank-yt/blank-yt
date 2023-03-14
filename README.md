@@ -105,6 +105,9 @@
 #### Simple Card with 3D Flip Animation to Back Page on Hover (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Simple-Card-with-3D-Flip-Animation-to-Back-Page-on-Hover)
 [![Video](https://img.youtube.com/vi/UuQ79al6h7o/0.jpg)](https://www.youtube.com/watch?v=UuQ79al6h7o)
 
+#### Smooth Animated Border Gradient (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Smooth-Animated-Border-Gradient)
+[![Video](https://img.youtube.com/vi/tZ6DEJBkaU0/0.jpg)](https://www.youtube.com/watch?v=tZ6DEJBkaU0)
+
 ---
 
 ### Loadings [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BWSwMf7MOvXWnEYHMDV00ra)
