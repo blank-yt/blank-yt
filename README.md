@@ -80,6 +80,9 @@
 #### Cool Buttons with Border Fade To Side Animation Effect on Hover (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Cool-Buttons-with-Border-Fade-To-Side-Animation-Effect-on-Hover)
 [![Video](https://img.youtube.com/vi/0iLlQxURmQA/0.jpg)](https://www.youtube.com/watch?v=0iLlQxURmQA)
 
+#### Fancy Atom Button with Smooth Animation on Hover (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Fancy-Atom-Button-With-Smooth-Animation-on-Hover)
+[![Video](https://img.youtube.com/vi/03r6ufyacIQ/0.jpg)](https://www.youtube.com/watch?v=03r6ufyacIQ)
+
 #### Stylish Purple Glowing Button (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Stylish-Purple-Glowing-Button)
 [![Video](https://img.youtube.com/vi/-XQ51W0X5y0/0.jpg)](https://www.youtube.com/watch?v=-XQ51W0X5y0)
 
