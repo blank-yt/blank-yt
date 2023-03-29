@@ -89,6 +89,9 @@
 #### Stylish Sign In With Google Button (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Stylish-Sign-In-With-Google-Button)
 [![Video](https://img.youtube.com/vi/mYSeQbjWiLY/0.jpg)](https://www.youtube.com/watch?v=mYSeQbjWiLY)
 
+#### Expandable Share Button With Smooth Opening Animation (HTML & CSS & JavaScript) [[GitHub repository]](https://github.com/blank-yt/Expandable-Share-Button-With-Smooth-Animation)
+[![Video](https://img.youtube.com/vi/FF15Lc1MnOg/0.jpg)](https://www.youtube.com/watch?v=FF15Lc1MnOg)
+
 ---
 
 ### Cards [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BVoKxxo2mCPEMBOY9JxU33G)
