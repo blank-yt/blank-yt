@@ -166,6 +166,9 @@
 #### Push Notifications With Toast Alert Message On Click (Mobile Friendly) (HTML & CSS & jQuery) [[GitHub repository]](https://github.com/blank-yt/Push-Notifications-With-Toast-Alert-Message-On-Click-Mobile-Friendly-)
 [![Video not available yet](https://img.youtube.com/vi/Y7baHL1YchA/0.jpg)](https://www.youtube.com/watch?v=Y7baHL1YchA)
 
+#### Classy Toast Notifications with Colorful Icons (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Classy-Toast-Notifications-with-Colorful-Icons)
+[![Video not available yet](https://img.youtube.com/vi/3OGXJjsyOcU/0.jpg)](https://www.youtube.com/watch?v=3OGXJjsyOcU)
+
 ---
 
 ### Breadcrumbs [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BUTmAjCkDd-kBqHtSQj_bkB)
