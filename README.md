@@ -13,6 +13,11 @@
 
 ## Videos
 
+### Portfolios [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BV_Ddx2QaE74_nJWnznw0Pw)
+
+#### Build a Complete Responsive Personal Portfolio Website using HTML, CSS & JavaScript [[GitHub repository]](https://github.com/blank-yt/Complete-Responsive-Personal-Portfolio-Website-using-HTML-CSS-JavaScript)
+[![Video not available yet](https://img.youtube.com/vi/7TMFnVZCaMM/0.jpg)](https://www.youtube.com/watch?v=7TMFnVZCaMM)
+
 ### Menus [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BU6Fi8bh3pL-xdiuzbrR65S)
 
 #### Responsive Sticky Navigation Menu With Scroll Indicator (using HTML & CSS & JavaScript) [[GitHub repository]](https://github.com/blank-yt/Responsive-Sticky-Navigation-Menu-With-Scroll-Indicator)
