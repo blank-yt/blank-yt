@@ -38,6 +38,9 @@
 #### Colorful Checkbox With Flowing Animation (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Colorful-Checkbox-With-Flowing-Animation)
 [![Video not available yet](https://img.youtube.com/vi/hTxIo7mzNnU/0.jpg)](https://www.youtube.com/watch?v=hTxIo7mzNnU)
 
+#### Simple Checkbox with Smooth Cross and Firework Animation on Click (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Simple-Checkbox-with-Smooth-Cross-Animation-HTML-CSS-)
+[![Video not available yet](https://img.youtube.com/vi/PslILcP3Mwc/0.jpg)](https://www.youtube.com/watch?v=PslILcP3Mwc)
+
 ---
 
 ### Radios [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BWNqShomFq7UeX_52Aes_T8)
