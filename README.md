@@ -18,6 +18,9 @@
 #### Build a Complete Responsive Personal Portfolio Website using HTML, CSS & JavaScript [[GitHub repository]](https://github.com/blank-yt/Complete-Responsive-Personal-Portfolio-Website-using-HTML-CSS-JavaScript)
 [![Video not available yet](https://img.youtube.com/vi/7TMFnVZCaMM/0.jpg)](https://www.youtube.com/watch?v=7TMFnVZCaMM)
 
+#### Build a Responsive Personal Portfolio Website with Particles Background using HTML, CSS & JavaScript [[GitHub repository]](https://github.com/blank-yt/Build-a-Responsive-Personal-Portfolio-Website-with-Particles-Background-using-HTML-CSS-JavaScript)
+[![Video not available yet](https://img.youtube.com/vi/QXcnz4WhQpc/0.jpg)](https://www.youtube.com/watch?v=QXcnz4WhQpc)
+
 ---
 
 ### Menus [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BU6Fi8bh3pL-xdiuzbrR65S)
