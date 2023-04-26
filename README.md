@@ -224,6 +224,9 @@
 #### Fancy Pagination with Tooltip on Hover (HTML & CSS & jQuery) [[GitHub repository]](https://github.com/blank-yt/Fancy-Pagination-with-Tooltip-on-Hover)
 [![Video not available yet](https://img.youtube.com/vi/iWQ2kjJGz_c/0.jpg)](https://www.youtube.com/watch?v=iWQ2kjJGz_c)
 
+#### Glowing Responsive Steps/Progress Bar/Pagination with Navigation Buttons (HTML, CSS, JavaScript) [[GitHub repository]](https://github.com/blank-yt/Glowing-Responsive-Steps-Progress-Bar-Pagination-with-Navigation-Buttons)
+[![Video not available yet](https://img.youtube.com/vi/dLwGZoPg-ro/0.jpg)](https://www.youtube.com/watch?v=dLwGZoPg-ro)
+
 ---
 
 ### Miscellaneous [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXmpnyRCcbzyJoq41dirJ-e)
