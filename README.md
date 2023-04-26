@@ -3,6 +3,7 @@
 ## YouTube
 
 <a href="https://www.youtube.com/channel/UCBlEMrvIh8kpSoS6SVTpgzQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://blanksite.eu/contact/"><img src="https://img.shields.io/badge/-Contact%20me-gray?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## GitHub
 
