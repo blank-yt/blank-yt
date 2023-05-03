@@ -32,6 +32,9 @@
 #### Pentagon Interaction Menu With Color Changing Animation (HTML & CSS & JavaScript) [[GitHub repository]](https://github.com/blank-yt/Pentagon-Interaction-Menu-With-Color-Changing-Animation)
 [![Video not available yet](https://img.youtube.com/vi/725ZDjENfvw/0.jpg)](https://www.youtube.com/watch?v=725ZDjENfvw)
 
+#### Cyberpunk Styled Navigation Menu with Smooth Animation on Hover using pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Cyberpunk-Styled-Navigation-Menu-with-Smooth-Animation-on-Hover-using-pure-HTML-CSS#readme)
+[![Video not available yet](https://img.youtube.com/vi/PljNVZee2ZE/0.jpg)](https://www.youtube.com/watch?v=PljNVZee2ZE)
+
 ---
 
 ### Checkboxes (toggle) [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXJnZnkhwnVif_Q3RCR6-U8)
