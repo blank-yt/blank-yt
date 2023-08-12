@@ -218,6 +218,9 @@
 #### Sliced Text Effect with Stylish Gradient on Bottom (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Sliced-Text-Effect-with-Stylish-Gradient-on-Bottom)
 [![Video not available yet](https://img.youtube.com/vi/ADK_LjbcMSk/0.jpg)](https://www.youtube.com/watch?v=ADK_LjbcMSk)
 
+#### Smooth Shining Text Effect Animation Using Pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Smooth-Shining-Text-Effect-Animation-Using-Pure-HTML-CSS)
+[![Video not available yet](https://img.youtube.com/vi/w1dQxI3W_5Y/0.jpg)](https://www.youtube.com/watch?v=w1dQxI3W_5Y)
+
 ---
 
 ### Pagination [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXtl2XeYK5kJmpl4oFVAodk)
