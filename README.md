@@ -224,6 +224,9 @@
 #### Smooth Shining Text Effect Animation Using Pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Smooth-Shining-Text-Effect-Animation-Using-Pure-HTML-CSS)
 [![Video not available yet](https://img.youtube.com/vi/w1dQxI3W_5Y/0.jpg)](https://www.youtube.com/watch?v=w1dQxI3W_5Y)
 
+#### ChatGPT Text Typing Effect Animation using HTML, CSS & JavaScript [[GitHub repository]](https://github.com/blank-yt/ChatGPT-Text-Typing-Effect-Animation-using-HTML-CSS-JavaScript)
+[![Video not available yet](https://img.youtube.com/vi/J64MXmNSVHI/0.jpg)](https://www.youtube.com/watch?v=J64MXmNSVHI)
+
 ---
 
 ### Pagination [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXtl2XeYK5kJmpl4oFVAodk)
