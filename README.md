@@ -24,6 +24,13 @@
 
 ---
 
+### 404 pages [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BWr8bV9WShJ-K0-Jnq61O32)
+
+#### Error 404: Page Not Found (80s Hacker Theme) [[GitHub repository]](https://github.com/blank-yt/Error-404-Page-Not-Found-80s-Hacker-Theme)
+[![Video not available yet](https://img.youtube.com/vi/cx8QXJ67470/0.jpg)](https://www.youtube.com/watch?v=cx8QXJ67470)
+
+---
+
 ### Menus [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BU6Fi8bh3pL-xdiuzbrR65S)
 
 #### Responsive Sticky Navigation Menu With Scroll Indicator (using HTML & CSS & JavaScript) [[GitHub repository]](https://github.com/blank-yt/Responsive-Sticky-Navigation-Menu-With-Scroll-Indicator)
