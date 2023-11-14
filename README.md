@@ -32,6 +32,9 @@
 #### Error 404: Page Not Found With Parallax Effect On Mouse Movement (Boat On The Sea) (HTML, CSS & JS) [[GitHub repository]](https://github.com/blank-yt/Error-404-Page-Not-Found-With-Parallax-Effect-On-Mouse-Movement-Boat-On-The-Sea-)
 [![Video not available yet](https://img.youtube.com/vi/P7G5MMjFHM0/0.jpg)](https://www.youtube.com/watch?v=P7G5MMjFHM0)
 
+#### Error 404: Page Not Found with Parallax Effect on Mouse Movement (Starry Sky) (HTML, CSS & JS) [[GitHub repository]](https://github.com/blank-yt/Error-404-Page-Not-Found-with-Parallax-Effect-on-Mouse-Movement-Starry-Sky-HTML-CSS-JS-)
+[![Video not available yet](https://img.youtube.com/vi/THAtoS6wTHo/0.jpg)](https://www.youtube.com/watch?v=THAtoS6wTHo)
+
 ---
 
 ### Menus [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BU6Fi8bh3pL-xdiuzbrR65S)
