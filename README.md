@@ -243,6 +243,9 @@
 #### ChatGPT Text Typing Effect Animation using HTML, CSS & JavaScript [[GitHub repository]](https://github.com/blank-yt/ChatGPT-Text-Typing-Effect-Animation-using-HTML-CSS-JavaScript)
 [![Video not available yet](https://img.youtube.com/vi/J64MXmNSVHI/0.jpg)](https://www.youtube.com/watch?v=J64MXmNSVHI)
 
+#### Clean Text Stroke Draw-In Animation using Pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Clean-Text-Stroke-Draw-In-Animation-using-Pure-HTML-CSS)
+[![Video not available yet](https://img.youtube.com/vi/k_MNSO430pA/0.jpg)](https://www.youtube.com/watch?v=k_MNSO430pA)
+
 ---
 
 ### Pagination [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXtl2XeYK5kJmpl4oFVAodk)
