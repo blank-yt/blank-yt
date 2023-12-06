@@ -246,6 +246,9 @@
 #### Clean Text Stroke Draw-In Animation using Pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Clean-Text-Stroke-Draw-In-Animation-using-Pure-HTML-CSS)
 [![Video not available yet](https://img.youtube.com/vi/k_MNSO430pA/0.jpg)](https://www.youtube.com/watch?v=k_MNSO430pA)
 
+#### Secret Code Reveal on Mouse Hover with Smooth Animation using Pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Secret-Code-Reveal-on-Mouse-Hover-using-Pure-HTML-CSS)
+[![Video not available yet](https://img.youtube.com/vi/6oPF2LzikM8/0.jpg)](https://www.youtube.com/watch?v=6oPF2LzikM8)
+
 ---
 
 ### Pagination [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BXtl2XeYK5kJmpl4oFVAodk)
