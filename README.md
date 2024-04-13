@@ -138,6 +138,9 @@
 #### Social Icons with Smooth Rotate Animation Using Pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Social-Icons-with-Smooth-Rotate-Animation-Using-Pure-HTML-CSS)
 [![Video not available yet](https://img.youtube.com/vi/K7XyDQPqAJU/0.jpg)](https://www.youtube.com/watch?v=K7XyDQPqAJU)
 
+#### Continue with Facebook button using pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Continue-with-Facebook-button-using-pure-HTML-CSS)
+<a href="https://www.youtube.com/shorts/GDHry2R74SA"><img src="https://github.com/blank-yt/Continue-with-Facebook-button-using-pure-HTML-CSS/assets/100468888/6cd6b881-6d0b-4dc5-b720-202d1deee0fe" height="300" alt="Video not available yet"></a>
+
 ---
 
 ### Cards [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BVoKxxo2mCPEMBOY9JxU33G)
