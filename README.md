@@ -277,3 +277,6 @@
 
 #### Colorful Glowing Gradient Around Div Using Tailwind CSS (HTML & CSS) [[GitHub repository]](https://github.com/blank-yt/Colorful-Glowing-Gradient-Around-Div-Using-Tailwind-CSS)
 [![Video not available yet](https://img.youtube.com/vi/Roz8L9ziTW0/0.jpg)](https://www.youtube.com/watch?v=Roz8L9ziTW0)
+
+#### AI listening animation using pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/AI-listening-animation-using-pure-HTML-CSS)
+<a href="https://www.youtube.com/shorts/oxbefzIdVTU"><img src="https://github.com/blank-yt/Continue-with-Facebook-button-using-pure-HTML-CSS/assets/100468888/b2c4d14d-24c5-4a5c-a013-b84d7aa63293" height="300" alt="Video not available yet"></a>
