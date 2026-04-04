@@ -284,6 +284,8 @@
 #### AI listening animation using pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/AI-listening-animation-using-pure-HTML-CSS)
 <a href="https://www.youtube.com/shorts/oxbefzIdVTU"><img src="https://github.com/blank-yt/Continue-with-Facebook-button-using-pure-HTML-CSS/assets/100468888/b2c4d14d-24c5-4a5c-a013-b84d7aa63293" height="300" alt="Video not available yet"></a>
 
-
 #### AI Prompt Bar with Animated Glow Border using pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/AI-Prompt-Bar-with-Animated-Glow-Border-using-HTML-CSS)
 <a href="https://www.youtube.com/shorts/Z_M86phmDlA"><img src="https://github.com/user-attachments/assets/4f9e2c75-9bfa-46ec-b572-da5f6df93fc1" height="300" alt="Video not available yet"></a>
+
+#### Glassmorphism Cookie Consent Popup Box using HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Glassmorphism-Cookie-Consent-Popup-Box-using-pure-HTML-CSS)
+<a href="https://www.youtube.com/shorts/2y7ERfbm7As"><img src="https://github.com/user-attachments/assets/1327e0b5-fc65-41b0-b45a-0208ace22c70" height="300" alt="Video not available yet"></a>
