@@ -96,6 +96,9 @@
 #### Awesome Neon Login Form Using Pure HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Awesome-Neon-Login-Form-Using-Pure-HTML-CSS)
 [![Video not available yet](https://img.youtube.com/vi/KfLd1dp5eyk/0.jpg)](https://www.youtube.com/watch?v=KfLd1dp5eyk)
 
+#### One Time Password Verification Screen with Glassmorphism using HTML & CSS [[GitHub repository]](https://github.com/blank-yt/One-Time-Password-Verification-Screen-with-Glassmorphism-using-HTML-CSS)
+<a href="https://www.youtube.com/shorts/2nEdhGYDG0Q"><img src="https://github.com/user-attachments/assets/a0338078-27d5-4855-bffc-303ee7bf02f4" height="300" alt="Video not available yet"></a>
+
 ---
 
 ### Security [[YouTube playlist]](https://www.youtube.com/playlist?list=PLSOLEGATb6BW8wN8XNJ6K8uPJgYCOS4m5)
