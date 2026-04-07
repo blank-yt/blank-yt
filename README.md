@@ -169,7 +169,7 @@
 #### Spotify Style Music Player Card with Glassmorphism and Glow Effect (HTM, CSS & JS) [[GitHub repository]](https://github.com/blank-yt/Spotify-Style-Music-Player-Card-with-Glassmorphism-and-Glow-Effect-using-HTML-CSS)
 <a href="https://www.youtube.com/shorts/oX4JAOdNkek"><img src="https://github.com/user-attachments/assets/1b9b1785-4c7e-4785-8eda-1eb709f70c79" height="300" alt="Video not available yet"></a>
 
-#### One Time Password Verification Screen with Glassmorphism using HTML & CSS [[GitHub repository]](https://github.com/blank-yt/One-Time-Password-Verification-Screen-with-Glassmorphism-using-HTML-CSS)
+#### Payment Checkout Form with Glassmorphism using HTML & CSS [[GitHub repository]](https://github.com/blank-yt/Payment-Checkout-Form-with-Glassmorphism-using-HTML-CSS)
 <a href="https://www.youtube.com/shorts/2aflm1WI7PA"><img src="https://github.com/user-attachments/assets/b1f62144-58ad-46ac-95bf-ec812d0e7609" height="300" alt="Video not available yet"></a>
 
 ---
